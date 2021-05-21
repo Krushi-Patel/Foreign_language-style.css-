@@ -1,0 +1,66 @@
+h2{
+	font-family: font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+
+p{
+	font-family: font-family: "Times New Roman", Times, serif;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top:25px;
+}
+
+img{
+	border-radius: 8px;
+	width: 35%
+	
+}
+
+header{
+	background-color: black;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+	display: inline;
+	margin: 100px;
+	text-decoration: none;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+p{
+	font-size: 20px
+}
+
+h2{
+	 font-size: 20px
+}
+
+ul{
+	font-size: 1.110em; /* 30px/16=1.875em */
+}
+
+
