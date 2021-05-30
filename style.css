@@ -24,13 +24,17 @@ header{
 	background-color: black;
 }
 
+img{
+	border-radius: 8px;
+	width: 15%;
+}
 ul{
   list-style: none;
 }
 
 li{
 	display: inline;
-	margin: 100px;
+	margin: 10px;
 	text-decoration: none;
 }
 
@@ -47,10 +51,24 @@ li a:hover {
 footer{
 	background-color: black;
 	color: white;
-	padding: 5px;
 	text-align: center;
+	padding: 20px
 }
 
+.footer-link{
+	background-color: black;
+	color: white;
+}
+ img{
+ 	width: 25%
+ }
+.footer-link:hover{
+	background-color: black;
+	color: white;
+}
+ul{
+	list-style: none;
+}
 p{
 	font-size: 20px
 }
@@ -62,5 +80,15 @@ h2{
 ul{
 	font-size: 1.110em; /* 30px/16=1.875em */
 }
+
+
+
+
+
+
+
+
+
+
 
 
